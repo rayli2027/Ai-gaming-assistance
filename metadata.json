@@ -1,0 +1,7 @@
+{
+  "name": "LevelUp_AI_1",
+  "description": "A high-performance gaming assistant providing pro-level strategies, puzzle solutions, and competitive meta analysis using Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
